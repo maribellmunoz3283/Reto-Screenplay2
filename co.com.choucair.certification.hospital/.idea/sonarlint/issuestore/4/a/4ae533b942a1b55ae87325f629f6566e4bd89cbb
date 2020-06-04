@@ -1,0 +1,4 @@
+
+wsquid:UselessImportCheck"GRemove this unused import 'net.thucydides.core.annotations.DefaultUrl'.(¢¿ç°øÿÿÿÿ8âŞÑ¼Ù-
+Xsquid:S1118	":Add a private constructor to hide the implicit public one.(‰ŒÏı8‘Ò¼Ù-
+rsquid:UselessImportCheck"BRemove this unused import 'net.serenitybdd.core.pages.PageObject'.(’•Ì›úÿÿÿÿ8‘Ò¼Ù-

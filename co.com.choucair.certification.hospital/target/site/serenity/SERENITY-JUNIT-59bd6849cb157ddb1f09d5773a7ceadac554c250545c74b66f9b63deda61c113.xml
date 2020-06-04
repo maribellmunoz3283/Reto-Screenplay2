@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Manage Medical Appointment" skipped="0" tests="1" time="24.78" timestamp="2020-06-04 11:20:21"><testcase name="Register a patient"><failure message="The following error occurred: Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">The following error occurred: Expected enabled element was not enabled</failure><system-err>The following error occurred: Expected enabled element was not enabled&#13;
+co.com.choucair.certification.hospital.tasks.AddPatient.performAs(AddPatient.java:35)&#13;
+co.com.choucair.certification.hospital.stepdefinitions.ManageAppointment.carlosRegistersItInTheHospitalAdministrationApplication(ManageAppointment.java:50)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
